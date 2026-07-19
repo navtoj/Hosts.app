@@ -4,5 +4,7 @@
 <dict>
 	<key>CFBundleExecutable</key>
 	<string>main.swift</string>
+	<key>CFBundleIconFile</key>
+	<string>Icon</string>
 </dict>
 </plist>
